@@ -12,7 +12,7 @@ const Description = () => {
             <h2 className="text-3xl md:text-5xl font-bold leading-tight">
                 interested in UI/UX
             </h2>
-            <h2 className="text-[28px] md:text-5xl font-bold leading-tight">
+            <h2 className="text-[25px] md:text-5xl font-bold leading-tight">
                 and Web Development
             </h2>
         </section>
