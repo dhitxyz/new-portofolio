@@ -5,32 +5,32 @@ const Project = () => {
     {
         year: 2024,
         title: 'Hari Natal & Tahun Baru',
-        image: '/public/images/1.png',
+        image: '/images/1.png',
     },
     {
         year: 2024,
         title: 'Personal Website',
-        image: '/public/images/2.png',
+        image: '/images/2.png',
     },
     {
         year: 2023,
         title: 'Pricelist Event The Exorcist',
-        image: '/public/images/3.png',
+        image: '/images/3.png',
     },
     {
         year: 2023,
         title: 'Kasir Laundry',
-        image: '/public/images/4.png',
+        image: '/images/4.png',
     },
     {
         year: 2022,
         title: 'Tournament Sugar Lab',
-        image: '/public/images/5.png',
+        image: '/images/5.png',
     },
     {
         year: 2022,
         title: 'Sistem Kampus',
-        image: '/public/images/6.png',
+        image: '/images/6.png',
     },
     ];
 
