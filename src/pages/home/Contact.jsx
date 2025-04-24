@@ -23,11 +23,11 @@ const Contact = () => {
             </h2>
             </div>
             <div className="flex flex-col items-start mt-30 md:mt-0">
-                <h3 className="text-3xl font-bold">Get in Touch</h3>
+                <h3 className="md:text-2xl text-3xl font-bold">Get in Touch</h3>
                 <p className="text-gray-400 mt-2 text-sm">
                     Let’s be friends, hit me out on the social media
                 </p>
-                <p className="text-gray-400 mb-4">through the links below 👇</p>
+                <p className="text-gray-400 mb-4 text-sm">through the links below 👇</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {contacts.map((item, idx) => (
