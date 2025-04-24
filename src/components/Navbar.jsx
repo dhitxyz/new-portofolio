@@ -38,7 +38,7 @@ const Navbar = () => {
       className="fixed top-0 left-0 w-full z-50 bg-white dark:bg-[#081014] md:bg-white/0 md:dark:bg-[#081014]/0 py-2"
     >
       <div className="max-w-6xl mx-auto px-4 md:py-4 flex justify-between items-center">
-        <div className="font-bold backdrop-blur-xl rounded-full px-6 py-4 -ml-8 md:-ml-0">KAPAN</div>
+        <div className="font-bold backdrop-blur-xl rounded-full px-6 py-4 -ml-6 md:-ml-0">KAPAN</div>
         <div className="md:hidden" onClick={() => setOpen(!open)}>
           {open ? <BiX size={30} /> : <BiMenu size={30} />}
         </div>
