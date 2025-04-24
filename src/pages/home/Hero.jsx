@@ -4,7 +4,7 @@ const Hero = () => {
     return (
     <section>
         <div class="justify-center flex flex-col py-8 px-4 mx-auto min-h-screen text-center -mt-20 md:-mt-0 lg:py-16 lg:px-1 2">
-            <h6 className="text-slate-400 tracking-[0.6em] md:text-xl text-lg mb-4">
+            <h6 className="text-slate-400 tracking-[0.6em] md:text-xl text-[12px] mb-4">
                 <span className="whitespace-nowrap">KADEK</span>{" "}
                 <span className="whitespace-nowrap">PANJI</span>
             </h6>
