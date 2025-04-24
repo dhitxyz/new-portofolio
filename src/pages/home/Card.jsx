@@ -9,7 +9,7 @@ const Card = () => {
                     UI/UX Designer
                 </div>
                 
-                <div className="bubble left-75 md:left-[580px] z-10 top-15 md:top-30 block bg-teal-500">
+                <div className="bubble left-73 md:left-[580px] z-10 top-15 md:top-30 block bg-teal-500">
                     Gamer
                 </div>
 
